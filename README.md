@@ -8,7 +8,7 @@ The dashboard is designed to help business stakeholders, marketing teams, and sn
 
 ## 📊 Dashboard Overview
 
-![Nike Power BI Dashboard](https://ibb.co/YFbqX9J3)
+![Nike Power BI Dashboard](https://github.com/NikhilRajput-98/Nike-shoes-dashboard/blob/main/Screenshot%202025-09-08%20195606.png)
 
 ### Key Features:
 - **Product Overview**: Highlights detailed information such as product name, edition, and description.  
